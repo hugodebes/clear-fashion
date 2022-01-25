@@ -5,7 +5,8 @@
 let currentProducts = [];
 let currentPagination = {};
 
-// inititiqte selectors
+// inititiate selectors
+//In the website the different cursors
 const selectShow = document.querySelector('#show-select');
 const selectPage = document.querySelector('#page-select');
 const sectionProducts = document.querySelector('#products');
