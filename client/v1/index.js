@@ -292,7 +292,7 @@ for(let i =0;i<=COTELE_PARIS.length-1;i++){
   
 }
 
-// 🎯 TODO: Reasonable price
+console.log(' 🎯 TODO: Reasonable price');
 // // 1. Log if coteleparis is a reasonable price shop (true or false)
 // // A reasonable price if all the products are less than 100€
 
@@ -339,6 +339,8 @@ let blueJacket = {
 let jacket = blueJacket;
 jacket.favorite = true;
 
+
+
 // 1. Log blueJacket and jacket variables
 console.log("blueJacket variable : ",blueJacket)
 console.log("jacket variable : ",jacket)
@@ -358,12 +360,16 @@ console.log("jacket variable : ",jacket)
 
 
 
-/**
+
+console.log('🎯 TODO: Save in localStorage');
+// 1. Save MY_FAVORITE_BRANDS in the localStorage
+// 2. log the localStorage
+console.log('Save in Local Storage');
+window.localStorage.setItem("MY_FAVORITE_BRANDS",JSON.stringify(MY_FAVORITE_BRANDS));
+console.log(window.localStorage.getItem("MY_FAVORITE_BRANDS"));
+
+/*
  * 🎬
  * The End
  * 🎬
  */
-
-// 🎯 TODO: Save in localStorage
-// 1. Save MY_FAVORITE_BRANDS in the localStorage
-// 2. log the localStorage
