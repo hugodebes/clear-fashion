@@ -12,6 +12,9 @@ const selectPage = document.querySelector('#page-select');
 const sectionProducts = document.querySelector('#products');
 const spanNbProducts = document.querySelector('#nbProducts');
 
+
+// JE FAIS UN MODIFICATION DANS LE PORTFOLIO
+
 /**
  * Set global value
  * @param {Array} result - products to display
