@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding : 0px;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+p{
+    font-weight: 300;
+    color: #111;
+    
+}
+
+.h1{
+    color: #111;
+    text-decoration: none;
+    margin-left: 40%;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.indicators{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
