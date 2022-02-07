@@ -4,6 +4,7 @@
 // current products on the page
 let currentProducts = [];
 let currentPagination = {};
+let favorites = [];
 
 // inititiqte selectors
 const selectShow = document.querySelector('#show-select');
@@ -59,33 +60,6 @@ const fetchProducts = async (page = 1, size = 12) => {
   }
 };
 
-
-/**
- * Render list of products
- * @param  {Array} products
- */
-const renderProducts = products => {
-  const fragment = document.createDocumentFragment();
-  const div = document.createElement('div');
-  const template = products
-    .map(product => {
-      return `
-      <div class="product" id=${product.uuid}>
-        <span>${product.brand}</span>
-        <a href="${product.link}">${product.name}</a>
-        <span>${product.price}</span>
-        <button id="clickMe">Open in new page</button>
-        
-      </div>
-    `;
-    })
-    .join('');
-
-  div.innerHTML = template;
-  fragment.appendChild(div);
-  sectionProducts.innerHTML = '<h2>Products</h2>';
-  sectionProducts.appendChild(fragment);
-};
 /**
  * Render page selector
  * @param  {Object} pagination
@@ -389,13 +363,30 @@ const render = (products, pagination) => {
  * I want to open product link in a new page
  * So that i can buy the product easily
  */
+ const renderProducts = products => {
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement('div');
+  const template = products
+    .map(product => {
+      return `
+      <div class="product" id=${product.uuid}>
+        <span>${product.brand}</span>
+        <a href="${product.link}">${product.name}</a>
+        <span>${product.price}</span>
+        <button title="OpenInNewTab" onclick="window.open('${product.link}', '_blank'); return false;">${product.name}</button>
+        <button title="AddFavorite" onclick="SaveAsFavorite('${product.uuid}')">Save as favorite</button>
+        
+      </div>
+    `;
+    })
+    .join('');
 
-/**
- *  const button = document.querySelector('#clickMe')
-button.addEventListener('click',() => {
-  const tab = window.open(${product.link},'_blank');
-})
- */
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionProducts.innerHTML = '<h2>Products</h2>';
+  sectionProducts.appendChild(fragment);
+};
+
 
 
 /**
@@ -405,8 +396,10 @@ button.addEventListener('click',() => {
  * I want to save a product as favorite
  * So that i can retreive this product later
  */
-
-
+ function SaveAsFavorite(product_uiid){
+  const index = Object.keys(currentProducts).find(key => currentProducts[key].uuid=== product_uiid)
+  favorites.push(currentProducts[index]);
+}
 
 /**
  * 🎯 Feature 14 - Filter by favorite
@@ -415,7 +408,11 @@ button.addEventListener('click',() => {
  * I want to filter by favorite products
  * So that i can load only my favorite products
  */
-
+ function Showfavorite(){
+  fetchProducts(currentPagination.currentPage, currentPagination.size)
+    .then(setCurrentProducts)
+    .then(() => render(favorites, currentPagination));
+}
 
 
 /**
