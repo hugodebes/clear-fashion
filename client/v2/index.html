@@ -24,9 +24,30 @@
       <div id="filters">
         <span>By reasonable price</span>
         <span>By recently released</span>
+        <div id="price">
+          <label for="price-select">By price:</label>
+          <select name="price" id="price-select"> 
+            <option value="null">-</option>
+            <option value="25">25</option>
+            <option value="50">50</option>
+            <option value="75">75</option>
+            <option value="100">100</option>
+          </select>
+        </div>
+        <div id="released">
+          <label for="released-select">By released:</label>
+          <select name="released" id="released-select"> 
+            <option value="null">-</option>
+            <option value="1w">less than 2 weeks</option>
+            <option value="1m">less than 1 month</option>
+            <option value="2m">less than 2 months</option>
+            <option value="6m">less than 6 months</option>
+          </select>
+        </div>
         <div id="brand">
           <label for="brand-select">By brands:</label>
           <select name="brand" id="brand-select"> 
+            <option value="null">-</option>
             <option value="loom">loom</option>
             <option value="1083">1083</option>
             <option value="dedicated">dedicated</option>
@@ -34,10 +55,12 @@
             <option value="adresse">adresse</option>
           </select>
         </div>
+        
       </div>
       <div id="sort">
         <label for="sort-select">Sort:</label>
         <select name="sort" id="sort-select">
+          <option value="null">-</option>
           <option value="price-asc">Cheaper</option>
           <option value="price-desc">Expensive</option>
           <option value="date-asc">Recently released</option>

@@ -11,6 +11,8 @@ const selectPage = document.querySelector('#page-select');
 const sectionProducts = document.querySelector('#products');
 const spanNbProducts = document.querySelector('#nbProducts');
 const selectBrand = document.querySelector('#brand-select');
+const selectPrice = document.querySelector('#price-select');
+const selectReleased = document.querySelector('#released-select')
 const selectSort = document.querySelector('#sort-select');
 const spanNewproducts = document.querySelector('#newProducts');
 const spanp50 = document.querySelector('#p50');
@@ -72,6 +74,7 @@ const renderProducts = products => {
         <span>${product.brand}</span>
         <a href="${product.link}">${product.name}</a>
         <span>${product.price}</span>
+        <button id="clickMe">Open in new page</button>
         
       </div>
     `;
@@ -98,73 +101,28 @@ const renderPagination = pagination => {
   selectPage.selectedIndex = currentPage - 1;
 };
 
-/**
- * Render page selector
- * @param  {Object} pagination
- */
-const renderIndicators = pagination => {
-  const {count} = pagination;
-  spanNbProducts.innerHTML = count;
-};
-const renderNewProducts = products => {
-  let count = 0;
-  var today=new Date();
-  for (let i=0;i<products.length;i++)
-  {
-    var test=products[i].released;
-    var test2=new Date(test);
-    var rep=Math.floor((today-test2)/(1000*60*60*24));
-    if(rep<=14)
-    {
-      count=count+1;
-    }
-  }
-  spanNewproducts.innerHTML = count;
-};
 
-const renderP90 = products =>{
-  var idx=parseInt(products.length*0.9);
-  var sorted=SortAsc(products);
-  var count=sorted[idx].price;
-  spanp90.innerHTML=count;
-}
-const renderP50 = products =>{
-  var idx=parseInt(products.length*0.5);
-  var sorted=SortAsc(products);
-  var count=sorted[idx].price;
-  spanp50.innerHTML=count;
-}
-const renderP95 = products =>{
-  var idx=parseInt(products.length*0.95);
-  var sorted=SortAsc(products);
-  var count=sorted[idx].price;
-  spanp95.innerHTML=count;
-}
-const renderLastReleased = products=>{
-  console.log(products);
-  var sorted=SortDateDesc(products);
-  var count=sorted[0].released;
-  spanReleased.innerHTML=count;
-}
-
-const render = (products, pagination) => {
-  renderProducts(products);
-  renderPagination(pagination);
-  renderIndicators(pagination);
-  renderP90(products);
-  renderP50(products);
-  renderP95(products);
-  renderLastReleased(products);
-  renderNewProducts(products);
-};
+//----------------------------------------------------------------------------------------------------------------------------------------
 
 /**
- * Declaration of all Listeners
+ * 📱
+ * FEATURES
+ * 
+ * A User Story is an informal, general explanation of a software feature written from the perspective of the end user or customer
+ * 
+ * A user story should typically have a summary structured this way
+ * 1. As a [user concerned by the story]
+ * 2. I want [goal of the story]
+ * 3. so that [reason for the story]
+ * 📱
  */
 
 /**
- * Select the number of products to display
- * @type {[type]}
+ * 🎯 Feature 0 - Show more 
+ * 
+ * As a user
+ * I want to show more products
+ * So that i can display 12, 24 or 48 products on the same page
  */
 selectShow.addEventListener('change', event => {
   fetchProducts(currentPagination.currentPage, parseInt(event.target.value))
@@ -178,12 +136,137 @@ document.addEventListener('DOMContentLoaded', () =>
     .then(() => render(currentProducts, currentPagination))
 );
 
+
+/**
+ * 🎯 Feature 1 - Browse pages
+ * 
+ * As a user
+ * I want to browse available pages
+ * So that i can load more products
+ */
 selectPage.addEventListener('change',event => {
   //console.log(event.target.value);
   fetchProducts(parseInt(event.target.value), currentPagination.size)
     .then(setCurrentProducts)
     .then(() => render(currentProducts, currentPagination));
 })
+
+/**
+ * 🎯 Feature 2 - Filter by brands
+ * 
+ * As a user
+ * I want to filter by brands name
+ * So that i can browse product for a specific brand
+ */
+ selectBrand.addEventListener('change',event => {
+  let brands = ["adresse","loom","aatise","1083","dedicated"]
+  var dictBrands={}
+  for(const name of brands){
+    const list_product = []
+    for (var i = 0;i < currentProducts.length;i++){
+      if (currentProducts[i].brand == name){
+        list_product.push(currentProducts[i]);
+      }
+    }
+    dictBrands[name] = list_product;
+  } 
+  var brand=selectBrand.value;
+  var temp= dictBrands[brand];
+  console.log(temp);
+  fetchProducts(currentPagination.currentPage, currentPagination.size)
+    .then(setCurrentProducts)
+    .then(() => render(temp, currentPagination));
+})
+
+/**
+ * 🎯 Feature 3 - Filter by recent products
+ * 
+ * As a user
+ * I want to filter by recent products
+ * So that i can browse the new released products (less than 2 weeks)
+ */
+ selectReleased.addEventListener('change',event => {
+  var date =selectReleased.value;
+  var nb_days = 0;
+  if (date == "2w"){
+    nb_days = 14;
+  }
+  else if (date == "1m"){
+    nb_days = 30;
+  }
+  else if (date == "2m"){
+    nb_days = 60;
+  }
+  else if (date == "6m"){
+    nb_days = 180;
+  }
+  var temp = []
+  const today = new Date();
+  for(var i = 0; i < currentProducts.length;i++){
+    const date = new Date(today.getTime())
+    const date_product = new Date(currentProducts[i].released);
+    const lessthan = new Date(date_product.getTime() + nb_days*24*60*60*1000);
+    if ( date < lessthan){
+      console.log('DATE DEBUG',date)
+      console.log(date_product)
+      temp.push(currentProducts[i]);
+    }
+  }
+
+  console.log(temp);
+  fetchProducts(currentPagination.currentPage, currentPagination.size)
+    .then(setCurrentProducts)
+    .then(() => render(temp, currentPagination));
+})
+
+/**
+ * 🎯 Feature 4 - Filter by reasonable price
+ * 
+ * As a user
+ * I want to filter by reasonable price
+ * So that i can buy affordable product i.e less than 50€
+ */
+ selectPrice.addEventListener('change',event => {
+  var price=selectPrice.value;
+  var temp = []
+  for(var i = 0; i < currentProducts.length;i++){
+    if (currentProducts[i].price <= price){
+      temp.push(currentProducts[i]);
+    }
+  }
+  console.log(temp);
+  fetchProducts(currentPagination.currentPage, currentPagination.size)
+    .then(setCurrentProducts)
+    .then(() => render(temp, currentPagination));
+})
+
+/**
+ * 🎯 Feature 5 - Sort by price
+ * 
+ * As a user
+ * I want to sort by price
+ * So that i can easily identify cheapest and expensive products
+ */
+ function SortAsc(marketplace){
+  return marketplace.sort((a, b) => a.price - b.price);
+}
+function SortDesc(marketplace){
+  return marketplace.sort((b, a) => a.price - b.price);
+}
+
+/**
+ * 🎯 Feature 6 - Sort by date
+ * 
+ * As a user
+ * I want to sort by date
+ * So that i can easily identify recent and old products
+ */
+function SortDateAsc(marketplace){
+  return marketplace.sort((b,a)=> new Date(b.released) - new Date(a.released));
+}
+function SortDateDesc(marketplace){
+  return marketplace.sort((a,b)=> new Date(b.released) - new Date(a.released));
+}
 
 selectSort.addEventListener("change", event => {
   //const sortByValue = sortByDropdown.value; // price or ram value
@@ -211,85 +294,146 @@ selectSort.addEventListener("change", event => {
     .then(setCurrentProducts)
     .then(() => render(temp, currentPagination));
 
-  
-  
 });
 
-function SortDateAsc(marketplace){
-  return marketplace.sort((b,a)=> new Date(b.released) - new Date(a.released));
-}
-function SortDateDesc(marketplace){
-  return marketplace.sort((a,b)=> new Date(b.released) - new Date(a.released));
-}
+/**
+ * 🎯 Feature 8 - Number of products indicator
+ * 
+ * As a user 
+ * I want to indicate the total number of products
+ * So that i can understand how many products is available
+ */
+ const renderIndicators = pagination => {
+  const {count} = pagination;
+  spanNbProducts.innerHTML = count;
+};
 
-function SortAsc(marketplace){
-  return marketplace.sort((a, b) => a.price - b.price);
-}
-function SortDesc(marketplace){
-  return marketplace.sort((b, a) => a.price - b.price);
-}
-selectBrand.addEventListener('change',event => {
-  var brand=selectBrand.value;
-  console.log(brand);
-  var first=[];
-  var second=[];
-  var third=[];
-  var fourth=[];
-  var fifth=[];
-  for (let i=0;i<currentProducts.length;i++)
+/**
+ * 🎯 Feature 9 - Number of recent products indicator
+ * 
+ * As a user
+ * I want to indicate the total number of recent products
+ * So that i can understand howw many new products are available
+ */
+ const renderNewProducts = products => {
+  let count = 0;
+  var today=new Date();
+  for (let i=0;i<products.length;i++)
   {
-    if(currentProducts[i].brand=='1083')
+    var test=products[i].released;
+    var test2=new Date(test);
+    var rep=Math.floor((today-test2)/(1000*60*60*24));
+    if(rep<=14)
     {
-      first.push(currentProducts[i]);
-    }
-    if(currentProducts[i].brand=='aatise')
-    {
-      second.push(currentProducts[i]);
-    }
-    if(currentProducts[i].brand=='adresse')
-    {
-      third.push(currentProducts[i]);
-    }
-    if(currentProducts[i].brand=='dedicated')
-    {
-      fourth.push(currentProducts[i]);
-    }
-    if(currentProducts[i].brand=='loom')
-    {
-      fifth.push(currentProducts[i]);
+      count=count+1;
     }
   }
+  spanNewproducts.innerHTML = count;
+};
 
-  var dictBrands={}
+/**
+ * 🎯 Feature 10 - p50, p90 and p95 price value indicator
+ * 
+ * As a user
+ * I want to indicate p50, p90 and p95 price value
+ * So that i can understand the price values of the products 
+ */
+ const renderP90 = products =>{
+  var idx=parseInt(products.length*0.9);
+  var sorted=SortAsc(products);
+  var count=sorted[idx].price;
+  spanp90.innerHTML=count;
+}
+const renderP50 = products =>{
+  var idx=parseInt(products.length*0.5);
+  var sorted=SortAsc(products);
+  var count=sorted[idx].price;
+  spanp50.innerHTML=count;
+}
+const renderP95 = products =>{
+  var idx=parseInt(products.length*0.95);
+  var sorted=SortAsc(products);
+  var count=sorted[idx].price;
+  spanp95.innerHTML=count;
+}
 
-  for(let i=0;i<currentProducts.length;i++)
-  {
-    if(currentProducts[i].brand=='1083')
-    {
-      console.log("hello");
-      dictBrands[currentProducts[i].brand]=first;
-    }
-    if(currentProducts[i].brand=='aatise')
-    {
-      dictBrands[currentProducts[i].brand]=second;
-    }
-    if(currentProducts[i].brand=='adresse')
-    {
-      dictBrands[currentProducts[i].brand]=third;
-    }
-    if(currentProducts[i].brand=='dedicated')
-    {
-      dictBrands[currentProducts[i].brand]=fourth;
-    }
-    if(currentProducts[i].brand=='loom')
-    {
-      dictBrands[currentProducts[i].brand]=fifth;
-    }
-  }
-  var temp= dictBrands[brand];
-  console.log(temp);
-  fetchProducts(currentPagination.currentPage, currentPagination.size)
-    .then(setCurrentProducts)
-    .then(() => render(temp, currentPagination));
+/**
+ * 🎯 Feature 11 - Last released date indicator
+ * 
+ * As a user
+ * I want to indicate the last released date
+ * So that i can understand if we have new products
+ */
+const renderLastReleased = products=>{
+  console.log(products);
+  var sorted=SortDateDesc(products);
+  var count=sorted[0].released;
+  spanReleased.innerHTML=count;
+}
+
+const render = (products, pagination) => {
+  renderProducts(products);
+  renderPagination(pagination);
+  renderIndicators(pagination);
+  renderP90(products);
+  renderP50(products);
+  renderP95(products);
+  renderLastReleased(products);
+  renderNewProducts(products);
+};
+
+/**
+ * 🎯 Feature 12 - Open product link
+ * 
+ * As a user
+ * I want to open product link in a new page
+ * So that i can buy the product easily
+ */
+
+/**
+ *  const button = document.querySelector('#clickMe')
+button.addEventListener('click',() => {
+  const tab = window.open(${product.link},'_blank');
 })
+ */
+
+
+/**
+ * 🎯 Feature 13 - Save as favorite
+ * 
+ * As a user
+ * I want to save a product as favorite
+ * So that i can retreive this product later
+ */
+
+
+
+/**
+ * 🎯 Feature 14 - Filter by favorite
+ * 
+ * As a user
+ * I want to filter by favorite products
+ * So that i can load only my favorite products
+ */
+
+
+
+/**
+ * 🎯 Feature 15 - Usable and pleasant UX
+ * 
+ * As a user
+ * I want to parse a usable and pleasant web page
+ * So that i can find valuable and useful content
+ */
+
+
+
+
+
+
+
+
+
+
+
 
