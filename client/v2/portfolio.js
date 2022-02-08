@@ -370,17 +370,16 @@ const render = (products, pagination) => {
     .map(product => {
       return `
       <div class="product" id=${product.uuid}>
-        <span>${product.brand}</span>
-        <a href="${product.link}">${product.name}</a>
-        <span>${product.price}</span>
-        <button title="OpenInNewTab" onclick="window.open('${product.link}', '_blank'); return false;">${product.name}</button>
-        <button title="AddFavorite" onclick="SaveAsFavorite('${product.uuid}')">Save as favorite</button>
+        <span class="gras">${product.brand}</span>
+        <span class="price">${product.price}€</span>
+        <button title="OpenInNewTab" class="btn btn-4" onclick="window.open('${product.link}', '_blank'); return false;">${product.name}</button>
+        <button title="AddFavorite" class="btn btn-3" onclick="SaveAsFavorite('${product.uuid}')">♡</button>
         
       </div>
     `;
     })
     .join('');
-
+//<a href="${product.link}">${product.name}</a>
   div.innerHTML = template;
   fragment.appendChild(div);
   sectionProducts.innerHTML = '<h2>Products</h2>';
