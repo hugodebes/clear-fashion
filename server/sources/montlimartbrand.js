@@ -10,33 +10,33 @@ const {'v5':uuidv5} = require('uuid');
 const parse = data => {
   const $ = cheerio.load(data);
 
-  return $('.productList-container .productList')
+  return $('.category-products .item')
     .map((i, element) => {
       const name = $(element)
-        .find('.productList-title')
+        .find('.product-name')
         .text()
         .trim()
         .replace(/\s/g, ' ');
       const price = parseInt(
         $(element)
-          .find('.productList-price')
+          .find('.price')
           .text()
       );
 
       let link = $(element)
-        .find('.productList-link')
+        .find('.product-name a')
         .attr('href');
-      const prelink = 'https://www.dedicatedbrand.com';
+      const prelink = 'https://www.montlimart.com/';
       link = prelink + link;
 
       const picture = $(element)
         .find('img')
-        .attr('data-src');
+        .attr('src');
       const id = uuidv5(link,uuidv5.URL);
 
       const materialInfo = $(element)
-      
-      return {name, price,link,picture};
+
+      return {name, price,link,picture,id};
     })
     .get();
 };
