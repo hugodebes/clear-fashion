@@ -73,8 +73,6 @@ var montlimart_db = JSON.parse(fs.readFileSync('sources/montlimart_db.json', 'ut
 //add_doc(adresseparis_db);
 //add_doc(dedicated_db);
 //add_doc(montlimart_db);
-find_brand("dedicated");
-//find_product_less_price (29);
-//find_product_sort_price(-1);
-
-
+//find_brand("dedicated");
+//find_product_less_price(29);
+find_product_sort_price(-1);
