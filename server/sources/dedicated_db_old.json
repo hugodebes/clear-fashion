@@ -1,0 +1,5950 @@
+[
+  [
+    {
+      "name": "T-shirt Stockholm Secret Garden",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-secret-garden",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Save The Whales Honey Yellow",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-save-the-whales-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Lazer Cats",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/lazer-cats",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm How to Draw an Owl",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-how-to-draw-an-owl",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Plastic Free Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-plastic-free-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Cat Crowd",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-cat-crowd",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Sea Turtles Forest Green",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-sea-turtles-forest-green-dark-forest",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Chinchillin",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-chinchillin",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Anything Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-anything-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Forbidden Fruit Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-forbidden-fruit-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Work Hard Pizza White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-work-hard-pizza-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm What I Saw White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-what-i-saw-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Bike Crowd Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-bike-crowd-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm We Love Sumo White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-we-love-sumo-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Beach Honey Yellow",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-beach-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Beach Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-beach-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Human Zoo Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-human-zoo-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Human Zoo Mint",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-human-zoo-mint-surf-spray",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Mandela Smile White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-mandela-smile-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Turnip the Beet White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-turnip-the-beet-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Your Mama Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-your-mama-charcoal-forged-iron",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Your Mama Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-your-mama-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Wish Vegan Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-wish-vegan-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Eat Beans Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-eat-beans-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Team Herbivore Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-team-herbivore-charcoal-forged-iron",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Team Herbivore White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-team-herbivore-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Sea Turtles Forest Green",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-sea-turtles-forest-green-dark-forest",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Save The Whales Honey Yellow",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-save-the-whales-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Save The Whales Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-save-the-whales-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Plastic Free Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-plastic-free-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Plastic Free Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-plastic-free-charcoal-forged-iron",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Cut Waves Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-cut-waves-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Crayon Globe Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-crayon-globe-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm All Natural White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-all-natural-white-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Pawsitivity Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-pawsitivity-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Honey Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-base-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-base-steel-blue-stonewash",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Terracotta Red",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-base-terracotta-red-aragon",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-base-dusty-purple-valerian",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Stitch Bike Mint",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-stitch-bike-mint-surf-spray",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Marker Bike Grey Melange",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-marker-bike-grey-melange-grey-melange",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Phoney Date",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-phoney-date",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Blue Birds",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/stockholm-t-shirt-blue-birds",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Like Adults",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/like-adults",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Give Me Some Space",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/give-me-some-space",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Going Gone Black",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-going-gone-black",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Lazer Cats",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/lazer-cats",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Secret Garden",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/men/t-shirts/t-shirt-stockholm-secret-garden",
+      "category": "t-shirts",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "T-shirt Stockholm Base 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-3-pack",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-3-pack-white",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-3-pack-white-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-3-pack-multi-color",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Black 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/boxer-briefs-kalix-base-black-5-pack",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/boxer-briefs-kalix-base-5-pack",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Honey Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-honey-yellow-beeswax",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-steel-blue-stonewash",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Terracotta Red",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-terracotta-red-aragon",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-dusty-purple-valerian",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Base Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/hoodie-falun-base-black-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Base Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/hoodie-falun-base-grey-melange-grey-melange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Beige",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-beige-safari",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Dark Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-dark-green",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Orange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-orange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Burgundy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-burgundy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Gustavsberg White",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-gustavsberg-white",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Gustavsberg Black",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-gustavsberg-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Gustavsberg Burgundy",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-gustavsberg-burgundy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Gustavsberg Dark Green",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-gustavsberg-dark-green",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Beige",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-beige",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-dark-green",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Orange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-orange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-burgundy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-white",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-navy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Grey Melange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-grey-melange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Charcoal",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-charcoal",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Navy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-navy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Grey Melange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-grey-melange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Charcoal",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-charcoal",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/polo-shirt-vaxholm-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm White",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/polo-shirt-vaxholm-white",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/polo-shirt-vaxholm-burgundy",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/polo-shirt-vaxholm-dark-green",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Yellow",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-yellow",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Pale Red",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-pale-red",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Mint",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-base-mint",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Mint",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-mint-surf_-spray",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Off-White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-off-white",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Base Mustard",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-base-mustard",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Stockholm Dedicated Logo Grey Melange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/t-shirt-stockholm-dedicated-logo-grey-melange",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Dedicated Logo Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/hoodie-falun-dedicated-logo-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Dedicated Logo Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/basics/sweatshirt-malmoe-dedicated-logo-black",
+      "category": "basics",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatshirt Malmoe Base Grey Melange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Color Bike Charcoal",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-color-bike-charcoal",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Chanterelle Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-chanterelle-dark-green",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Local Planet Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-local-planet-navy",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-dark-green",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Mushroom Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-mushroom-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Dedicated Logo Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-dedicated-logo-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Rainbow Bicycle Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-rainbow-bicycle-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Marker Bike Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-marker-bike-grey-melange-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Marker Bike Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-marker-bike-black-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Globe Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-globe-grey-melange-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Marker Bike Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-marker-bike-grey-melange-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Marker Bike Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-marker-bike-black-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Base Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-base-black-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Base Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-base-grey-melange-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Mushroom Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-mushroom-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Orange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-orange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Color Bike Grey Melange",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-color-bike-grey-melange-grey_-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-dark-green",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-burgundy",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Charcoal",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-charcoal",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Chanterelle Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-chanterelle-dark-green",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Beige",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-beige",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Local Planet Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-local-planet-dark-green",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Color Bike Charcoal",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-color-bike-charcoal",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Color Bike Charcoal",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-color-bike-charcoal",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Local Planet Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-local-planet-navy",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Navy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-navy",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Grey Melange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Yellow",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-yellow",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Pale Red",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-pale-red",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Base Mint",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-base-mint",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Color Bike Mint",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-color-bike-mint",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Local Planet Mint",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-local-planet-mint",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Local Planet Navy",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-local-planet-navy",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Local Planet Grey Melange",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-local-planet-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Local Planet Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-local-planet-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Rainbow Bicycle Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-rainbow-bicycle-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Rainbow Bicycle Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-rainbow-bicycle-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Color Bike Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-color-bike-gm",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Dedicated Logo Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-dedicated-logo-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Dedicated Logo Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-dedicated-logo-black",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Falun Dedicated Logo Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/hoodie-falun-dedicated-logo-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Dedicated Logo Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-dedicated-logo-grey-melange",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Malmoe Split Grey",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/sweats/sweatshirt-malmoe-split-grey",
+      "category": "sweats",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Cardigan Molkom Waves Off-White",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/cardigan-molkom-waves-off-white-whisper-white",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Mora Cut Mountain Multi Color",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-mora-cut-mountain-multi-color",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Mora Cut Mountain Grey",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-mora-cut-mountain-grey",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Trysil Stripe Burnt Orange",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-trysil-stripe-burnt-orange",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Trysil Stripe Navy",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-trysil-stripe-navy",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Karlskrona Transfer Knit Dark Green",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-karlskrona-transfer-knit-dark-green",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Karlskrona Transfer Knit Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-karlskrona-transfer-knit-black",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Mora Ikat Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-mora-ikat-black",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Trysil Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-trysil-black",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Mora Dog Shapes Beige",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-mora-dog-shapes-beige",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Cardigan Molkom Dog Shapes Beige",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/cardigan-molkom-dog-shapes-beige",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Karlskrona Transfer Knit Light Grey",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-karlskrona-transfer-knit-light-grey",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Mora Stripe Multi Color",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-mora-stripe-multi-color",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Short Sleeve Knitted T-shirt Husum Denim Blue",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/short-sleeve-knitted-t-shirt-husum-denim-blue",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Short Sleeve Knitted T-shirt Husum Mint",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/short-sleeve-knitted-t-shirt-husum-mint",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Short Sleeve Gnesta Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/knitwear/sweater-short-sleeve-gnesta-black",
+      "category": "knitwear",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Shirt Sandefjord Sea Turtles Off-White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-sandefjord-sea-turtles-off-white-whisper-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Sea Turtles Off-White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-sea-turtles-off-white-whisper-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Rute Ikat Flannel Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-rute-ikat-flannel-navy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Corduroy Brown",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-corduroy-brown",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Corduroy Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-corduroy-black",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Corduroy Leaf Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-corduroy-leaf-green",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Black",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/jacket-leksand-black",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Olive Green",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/jacket-leksand-olive-green",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Rute Ikat Flannel Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-rute-ikat-flannel-black",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Burgundy",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-burgundy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Dobby Off-White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-dobby-off-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Chambray",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-chambray-blue",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-black",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm White",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/polo-shirt-vaxholm-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/polo-shirt-vaxholm-black",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/polo-shirt-vaxholm-burgundy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/polo-shirt-vaxholm-dark-green",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Polo Shirt Vaxholm Planet Icon White",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/polo-shirt-vaxholm-planet-icon-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-navy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Dobby Navy",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-dobby-navy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Sandefjord Dobby Off White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-short-sleeve-sandefjord-dobby-off-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Sandefjord Dobby Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-short-sleeve-sandefjord-dobby-navy",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Paisley",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-paisley",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Marstrand Monkey Trees",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-short-sleeve-marstrand-monkey-trees",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Marstrand Seventies Floral Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-short-sleeve-marstrand-seventies-floral-green",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Varberg Off-White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-varberg-off-white",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Marstrand Flying Hummingbirds Multi Color",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/shirts/shirt-short-sleeve-marstrand-flying-hummingbirds-multi-color",
+      "category": "shirts",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatshorts Halmstad Dedicated Logo Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/sweatshorts-halmstad-dedicated-logo-black-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Sollentuna Corduroy Deep Blue",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-sollentuna-corduroy-deep-blue",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Sollentuna Corduroy Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-sollentuna-corduroy-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Sollentuna Corduroy Brown",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-sollentuna-corduroy-brown",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Ljugarn Ikat Flannel Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-ljugarn-ikat-flannel-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jogger Lund Mushrooms Off-White",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/jogger-lund-mushrooms-off-white",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chino Pants Sundsvall Navy",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chino-pants-sundsvall-navy-black_-iris",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chino Pants Sundsvall Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chino-pants-sundsvall-black-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chinos Sundsvall Khaki",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chinos-sundsvall-khaki",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chinos Sundsvall Leaf Green",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chinos-sundsvall-leaf-green",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Klitmoeller Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-klitmoeller-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Lerum Olive Green",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-lerum-olive-green",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Lerum Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/pants-lerum-black-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Lund Dedicated Logo Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/joggers-lund-dedicated-logo-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Lund Dedicated Logo Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/joggers-lund-dedicated-logo-grey-melange",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Lund Dedicated Logo Charcoal",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/joggers-lund-dedicated-logo-charcoal",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chino Shorts Nacka Olive Green",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chino-shorts-nacka-olive-green",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chino Shorts Nacka Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chino-shorts-nacka-black-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shorts Vejle Thin Stripes",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/shorts-vejle-thin-stripes",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shorts Vejle Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/shorts-vejle-black",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Chino Shorts Nacka",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/men/bottoms/chino-shorts-nacka-burgundy",
+      "category": "bottoms",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Jacket Hoddevik Ombre Blue",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-ombre-blue-ombre-blue",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Stripes Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-stripes-multi-color-multi-color",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Mint",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-mint-surf-spray",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Secret Garden",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-secret-garden",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Leaf Green",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-leaf-green",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Grey",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-grey",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Black",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Burnt Orange",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-burnt-orange",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Winter Woods",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-winter-woods",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Brown",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-brown",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Deep Blue",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-deep-blue",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Brown",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-brown",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Deep Blue",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-deep-blue",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Black",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Beige",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-beige",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Split Multi Color",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-split-multi-color",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Leaf Green",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-leaf-green",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-black-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Leaf Green",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-leaf-green",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Wood Cut Charcoal",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-wood-cut-charcoal",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Olive Green",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-olive-green",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Mocha Brown",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-mocha-brown",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Black",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Mid Layer Jacket Ljusdal Grey",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/mid-layer-jacket-ljusdal-grey",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Burnt Orange",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-burnt-orange",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Grey",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-grey",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Mid Layer Jacket Ljusdal Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/mid-layer-jacket-ljusdal-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-black",
+      "category": "jackets",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Jacket Hoddevik Ombre Blue",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-ombre-blue-ombre-blue",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Stripes Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-stripes-multi-color-multi-color",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Mint",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-mint-surf-spray",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Secret Garden",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-secret-garden",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Leaf Green",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-leaf-green",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Grey",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-grey",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Black",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Burnt Orange",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-burnt-orange",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Dundret Winter Woods",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/puffer-jacket-dundret-winter-woods",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Brown",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-brown",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Vallentuna Corduroy Deep Blue",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/padded-jacket-vallentuna-corduroy-deep-blue",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Brown",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-brown",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Worker Jacket Sala Corduroy Deep Blue",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/worker-jacket-sala-corduroy-deep-blue",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Black",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Beige",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-beige",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Split Multi Color",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-split-multi-color",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Hoddevik Leaf Green",
+      "price": 199,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-hoddevik-leaf-green",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-black-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Leaf Green",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-leaf-green",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Windbreaker Skara Wood Cut Charcoal",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/windbreaker-skara-wood-cut-charcoal",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Olive Green",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-olive-green",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Mocha Brown",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-mocha-brown",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Leksand Black",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/jacket-leksand-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Mid Layer Jacket Ljusdal Grey",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/mid-layer-jacket-ljusdal-grey",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Burnt Orange",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-burnt-orange",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Grey",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-grey",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Mid Layer Jacket Ljusdal Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/mid-layer-jacket-ljusdal-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Vest Avesta Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/men/jackets/quilted-vest-avesta-black",
+      "category": "caps_and_beanies",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Socks Sigtuna Peanuts 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-peanuts-5-pack",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-trees-5-pack",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fruits 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-fruits-5-pack",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-fuck-racism-pattern-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern Golden Yellow",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-fuck-racism-pattern-golden-yellow",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Vegetables White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-vegetables-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees Leaf Green",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-trees-leaf-green",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Base Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-base-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Peanuts AOP White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-peanuts-aop-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Lucy Light Blue",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-lucy-light-blue",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Snoopy Red",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-snoopy-red",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Woodstock Green",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-woodstock-green",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Double Scarf Multi Color",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-double-scarf-multi-color",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bike-pattern-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Burgundy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bike-pattern-burgundy-burgundy",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Navy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bike-pattern-navy",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bike-pattern-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-fuck-racism-pattern-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-trees-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Local Planet Navy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-local-planet-navy",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna World Map Blue",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-world-map-blue",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Lemons Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-lemons-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Green Tube",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-green-tube",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-super-mario",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-super-mario-pattern-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Peach",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-peach",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bowser",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bowser",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Hummingbirds White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-hummingbirds-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Hummingbirds Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-hummingbirds-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Dedicated Logo Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-dedicated-logo-black",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna World Champion",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-world-champion",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bumblebees",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-bumblebees",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Double Stripes",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-double-stripes-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-super-mario-pattern-white",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Toad",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/men/socks/socks-sigtuna-toad",
+      "category": "socks",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Boxer Briefs Kalix Vacation 3-Pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-vacation-3-pack-multi-color",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Ocean 3-Pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-ocean-3-pack-multi-color",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bike Pattern 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bike-pattern-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Black 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-black-5-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Peanuts 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-peanuts-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Trees 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-trees-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bananas 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bananas-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-5-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Sea Turtles Forest Green",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-sea-turtles-forest-green-dark-forest",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Waves Navy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-waves-navy-black-iris",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Waves White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-waves-white-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Vegetables White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-vegetables-white-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Vegetables Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-vegetables-black-black",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Crayon Palms Pink",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-crayon-palms-pink-pink",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Crayon Palms White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-crayon-palms-white-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Palm Leaves Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-palm-leaves-black-black",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Black",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-black",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Burgundy",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-burgundy",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Navy",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-navy-black_-iris",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base White",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Trees",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-trees",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Trees Grey Melange",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-trees-grey-melange",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bike Pattern Navy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bike-pattern-navy-black_-iris",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bike Pattern Burgundy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bike-pattern-burgundy",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bike Pattern Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bike-pattern-black",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bananas White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bananas-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bananas Pink",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bananas-pink",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Lemons",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-lemons",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Mushrooms Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-mushrooms-black",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Mushrooms Burgundy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-mushrooms-burgundy",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Dog Shapes Beige",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-dog-shapes-beige",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Dog Shapes Grey Melange",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-dog-shapes-grey-melange",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Shark Bite White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-shark-bite-white",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Fuck Racism",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-fuck-racism",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Japanese Wave Navy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-japanese-wave-navy",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Vegetables 3-Pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-vegetables-3-pack-multi-color",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Ocean 3-Pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-ocean-3-pack-multi-color",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Trees 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-trees-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Vacation 3-Pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-vacation-3-pack-multi-color",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Peanuts 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-peanuts-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-5-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bike Pattern 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bike-pattern-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Base Black 5-pack",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-base-black-5-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Boxer Briefs Kalix Bananas 3-pack",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/underwear/boxer-briefs-kalix-bananas-3-pack",
+      "category": "underwear",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Swim Shorts Sandhamn Tropic Leaves Grey",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/swim-shorts/swim-shorts-sandhamn-tropic-leaves-grey",
+      "category": "swim_shorts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swim Shorts Sandhamn Tie Dye Blue",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/swim-shorts/swim-shorts-sandhamn-tie-dye-blue",
+      "category": "swim_shorts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swim Shorts Sandhamn Croc Hippo Pink",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/swim-shorts/swim-shorts-sandhamn-croc-hippo-pink",
+      "category": "swim_shorts",
+      "type": "men",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swim Shorts Sandhamn Coconuts Yellow",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/men/swim-shorts/swim-shorts-sandhamn-coconuts-yellow",
+      "category": "swim_shorts",
+      "type": "men",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "T-shirt Visby Autumn Birds Off White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-autumn-birds-off-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Just Cats White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-just-cats-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Bike People Off White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-bike-people-off-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Lazer Cats",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-lazer-cats",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Painted Hummingbird White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-painted-hummingbird-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Hehe White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-hehe-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Local Planet Navy",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-local-planet-navy",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Girl Gang",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-girl-gang",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Doga Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-doga-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Plant the Seed Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-plant-the-seed-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Work Hard Pizza White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-work-hard-pizza-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Wish Vegan Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-wish-vegan-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Love U Idiot White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-love-u-idiot-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Doga Honey Yellow",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-doga-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Human Zoo Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-human-zoo-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Fat Cat White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-fat-cat-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Forbidden Fruit Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-forbidden-fruit-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Plastic Free Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-plastic-free-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Apples Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-apples-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Oranges Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-oranges-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Fat Cat Dusty Purple",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-fat-cat-dusty-purple-valerian",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Love U Idiot Black",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-love-u-idiot-black-black",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Hehe White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-hehe-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Butterflies Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-butterflies-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Butterfly Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-butterfly-charcoal-forged-iron",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Butterfly White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-butterfly-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Just Cats White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-just-cats-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Forest Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-base-forest-green-dark-forest",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-base-steel-blue-stonewash",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Terracotta Red",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-base-terracotta-red-aragon",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Pawsitivity Off-White",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-pawsitivity-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Bike Crowd Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-bike-crowd-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Stina Flower White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-stina-flower-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Stina Plant White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-stina-plant-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Stina Poppies White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-stina-poppies-white-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Anything Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-anything-off-white-whisper-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Take No Shit Charcoal",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-take-no-shit-charcoal-forged-iron",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Forest Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-base-forest-green-dark-forest",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-base-steel-blue-stonewash",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Honey Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-base-honey-yellow-beeswax",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-base-dusty-purple-valerian",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-mysen-base-dusty-purple-valerian",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Happiness Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-happiness-charcoal",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Mushrooms Off-White",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-mushrooms-off-white",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Wild At Heart Pink",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-wild-at-heart-pink",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Color Bird Charcoal",
+      "price": 34,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-color-bird-charcoal",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Blue Birds",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/visby-t-shirt-blue-birds",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Garden",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/women/t-shirts-and-tops/t-shirt-visby-garden",
+      "category": "t-shirts",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatshirt Lerdala White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatshirt-lerdala-white",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatpants Lomma Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatpants-lomma-black-black",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Terracotta Red",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-terracotta-red-aragon",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-steel-blue-stonewash",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base White",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-white-white",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Forest Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-forest-green-dark-forest",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Mint",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-mint",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Forest Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-forest-green-dark-forest",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Steel Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-steel-blue-stonewash",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Mint",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatshirt-ystad-raglan-base-mint",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Honey Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-honey-yellow-beeswax",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-dusty-purple-valerian",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Dusty Purple",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-dusty-purple-valerian",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-dark-green",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Dark Green",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/lounge-pants-lomma-dark-green",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Burgundy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-burgundy",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Burgundy",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/lounge-pants-lomma-burgundy",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Silver Pink",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-silver-pink",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Silver Pink",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/lounge-pants-lomma-silver-pink",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-grey-melange",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatpants Lomma Charcoal",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatpants-lomma-charcoal",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Silver Pink",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-silver-pink",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Burgundy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-burgundy",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Dark Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-dark-green",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Charcoal",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-charcoal",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Beige",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-beige-safari",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Beige",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-beige-safari",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Orange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-base-orange",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Orange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-orange",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Grey Melange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-grey-melange",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatshirt-ystad-raglan-base-burgundy",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/hoodie-sundborn-base-black",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Silver Pink",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatshirt-ystad-raglan-base-silver-pink",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Silver Pink",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-silver-pink",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/sweatshirt-ystad-raglan-base-dark-green",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Dark Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-dark-green",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-white",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-white",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Mysen Base Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-mysen-black",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Visby Base Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/basics/t-shirt-visby-base-black",
+      "category": "basics",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatshirt Ystad Autumn Birds Off White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-autumn-birds-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Secret Garden",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-secret-garden",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Hummingbird Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-hummingbird-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Chanterelle Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-chanterelle-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Vintage Mushroom Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-vintage-mushroom-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Halfzip Mariestad Mushrooms Off White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/halfzip-mariestad-mushrooms-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Lerdala Butterflies Grey Melange",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-lerdala-butterflies-grey-melange-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Lerdala White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-lerdala-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Autumn Birds Off White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-autumn-birds-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Vintage Mushroom Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-vintage-mushroom-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Secret Garden",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-secret-garden",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Mushrooms Off-White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-mushrooms-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Color Bike Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-color-bike-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Halfzip Mariestad Mushrooms Off White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/halfzip-mariestad-mushrooms-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Silver Pink",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-silver-pink",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Chanterelle Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-chanterelle-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Dog Shapes Beige",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweater-arendal-dog-shapes-beige",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Silver Pink",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-silver-pink",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base White",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-white-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Dark Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Color Bike Charcoal",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-color-bike-charcoal",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Lerdala Dark Green",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-lerdala-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Lerdala Burgundy",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/loose-sweatshirt-lerdala-burgundy",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Burgundy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-burgundy",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Hummingbird Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-hummingbird-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Beige",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-beige",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Orange",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-orange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Grey Melange",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Navy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-navy",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Dark Green",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-dark-green",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Lerdala Silver Pink",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-lerdala-silver-pink",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Flowers",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-flowers",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Mint",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-mint",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Hummingbirds Off-White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-hummingbirds-off-white",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Hummingbird Charcoal",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-hummingbird-charcoal",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Hummingbird Charcoal",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-hummingbird-charcoal",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Charcoal",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-charcoal",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Coral",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-coral",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Coral",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-coral",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Base Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-base-black",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Hoodie Sundborn Mint",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/hoodie-sundborn-mint",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Local Planet Navy",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-local-planet-navy",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Local Planet Grey Melange",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-local-planet-grey-melange",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Black",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-black",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Base Burgundy",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-base-burgundy",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Ystad Raglan Golden Yellow",
+      "price": 59,
+      "link": "https://www.dedicatedbrand.com//en/women/sweats/sweatshirt-ystad-raglan-golden-yellow",
+      "category": "sweats",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Cardigan Iggesund Waves Off-White",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/cardigan-iggesund-waves-off-white-whisper-white",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Waves Off-White",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-waves-off-white-whisper-white",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Knitted Rutbo Blocks Multi Color",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-knitted-rutbo-blocks-multi-color",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Knitted Rutbo Blocks Grey",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-knitted-rutbo-blocks-grey",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Lo Cut Mountain Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/dress-lo-cut-mountain-multi-color",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Lo Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/dress-lo-black-black",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Cardigan Iggesund Dog Shapes Beige",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/cardigan-iggesund-dog-shapes-beige",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Dog Shapes Beige",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-dog-shapes-beige",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Cardigan Iggesund Cats Grey",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/cardigan-iggesund-cats-grey",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Cats",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-cats",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Oslo Light Grey",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-oslo-light-grey",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Oslo Black",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-oslo-black-black",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Oslo Bright Yellow",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-oslo-bright-yellow",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Knitted Rutbo Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-knitted-rutbo-black",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Ikat Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-ikat-black",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Rutbo Blocks",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-rutbo-blocks",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Light Grey",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-light-grey",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweater Arendal Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/knitwear/sweater-arendal-black",
+      "category": "knitwear",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Dress Lo Cut Mountain Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-lo-cut-mountain-multi-color",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Sunne Autumn Birds Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-sunne-autumn-birds-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Bornholm Floral Hummingbirds Multi Color",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-bornholm-floral-hummingbirds-multi-color",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Sunne Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-sunne-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Hjo Wood Cut Charcoal",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-hjo-wood-cut-charcoal",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Long T-shirt Dress Ronneby Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/long-t-shirt-dress-ronneby-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Hjo Secret Garden",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-hjo-secret-garden",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Hjo Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-hjo-black-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Kaftan Lysekil Leopard Light Brown",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/kaftan-lysekil-leopard-light-brown",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Bornholm Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-bornholm-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jersey Dress Kristinehamn Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/jersey-dress-kristinehamn-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Kaftan Lysekil Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/kaftan-lysekil-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Dress Lo Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/dresses/dress-lo-black-black",
+      "category": "dresses",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Shirt Dorothea Sea Turtles Off-White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-sea-turtles-off-white-whisper-white",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Autumn Birds Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-autumn-birds-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Floral Hummingbirds Multi Color",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-floral-hummingbirds-multi-color",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Autumn Birds Off-White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-autumn-birds-off-white",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Ljunga Autumn Birds",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-ljunga-autumn-birds",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Ljunga Wood Cut Charcoal",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-ljunga-wood-cut-charcoal",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Ljunga Autumn Birds Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-ljunga-autumn-birds-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Ljunga Off White",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-ljunga-off-white",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Off White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-off-white",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Ljunga Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-ljunga-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Fredericia Secret Garden",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-fredericia-secret-garden",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Secret Garden",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-secret-garden",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Blouse Lycka Wood Cut Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/blouse-lycka-wood-cut-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Lima Corduroy Brown",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-lima-corduroy-brown",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Lima Corduroy Deep Blue",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-lima-corduroy-deep-blue",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Lima Corduroy Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-lima-corduroy-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Nibe Flying Hummingbirds Multi Color",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-short-sleeve-nibe-flying-hummingbirds-multi-color",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Blouse Odense Seventies Floral Green",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/blouse-odense-seventies-floral-green",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Blouse Odense Dobby Off White",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/blouse-odense-dobby-off-white",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Blouse Odense Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/blouse-odense-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Short Sleeve Nibe Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-short-sleeve-nibe-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Dorothea Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-dorothea-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shirt Lima Thin Stripe Blue",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/shirt-lima-thin-stripe-blue",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jumpsuit Hunnebo Seventies Floral Green",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/jumpsuit-hunnebo-seventies-floral-green",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jumpsuit Hunnebo Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/shirts/jumpsuit-hunnebo-black",
+      "category": "shirts",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatpants Lomma Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/sweatpants-lomma-black-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Workwear Pants Vara Corduroy Deep Blue",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/workwear-pants-vara-corduroy-deep-blue",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Workwear Pants Vara Corduroy Brown",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/workwear-pants-vara-corduroy-brown",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Workwear Pants Vara Corduroy Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/workwear-pants-vara-corduroy-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Vara Workwear Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/pants-vara-workwear-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Haga Corduroy Brown",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-haga-corduroy-brown",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Haga Corduroy Black",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-haga-corduroy-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Haga Corduroy Deep Blue",
+      "price": 89,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-haga-corduroy-deep-blue",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Klippan",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-klippan",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Burgundy",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-pants-lomma-burgundy",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatpants Lomma Charcoal",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/sweatpants-lomma-charcoal",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Silver Pink",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-pants-lomma-silver-pink",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Pants Lomma Dark Green",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-pants-lomma-dark-green",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jumpsuit Emmaboda Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/jumpsuit-emmaboda-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Tights Kaxholmen Tropic Leaves",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/tights-kaxholmen-tropic-leaves",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Bike Tights Kortebo Tropic Leaves",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/bike-tights-kortebo-tropic-leaves",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Tights Kaxholmen Collage Leaves Green",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/tights-kaxholmen-collage-leaves-green",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Bike Tights Kortebo Collage Leaves Green",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/bike-tights-kortebo-collage-leaves-green",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Shorts Lyby Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-shorts-lyby-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Shorts Lyby Leaf Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-shorts-lyby-leaf-green",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Lounge Shorts Lyby Mocha Brown",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/lounge-shorts-lyby-mocha-brown",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jersey Skirt Arvika Black",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/jersey-skirt-arvika-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jersey Skirt Arvika Leaf Green",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/jersey-skirt-arvika-leaf-green",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Klippan Floral Hummingbirds Multi Color",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-klippan-floral-hummingbirds-multi-color",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Pants Skagen Black",
+      "price": 79,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/pants-skagen-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Overall Hultsfred Black",
+      "price": 129,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/overall-hultsfred-black-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jumpsuit Emmaboda Black",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/jumpsuit-emmaboda-black-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jumpsuit Emmaboda Thin Stripes",
+      "price": 119,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/jumpsuit-emmaboda-thin-stripes",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Bike Tights Kortebo Leopard Light Brown",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/bike-tights-kortebo-leopard-light-brown",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Skirt Nossebro Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/skirt-nossebro-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shorts Sandvika Collage Leaves",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/shorts-sandvika-collage-leaves",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Shorts Sandvika Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/shorts-sandvika-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Tights Kaxholmen Black",
+      "price": 69,
+      "link": "https://www.dedicatedbrand.com//en/women/bottoms/tights-kaxholmen-black",
+      "category": "bottoms",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Packable Anorak Brekke Stripes Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-stripes-multi-color-multi-color",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Packable Anorak Brekke Mint",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-mint-surf-spray",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Packable Anorak Brekke Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-black-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Secret Garden",
+      "price": 319,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-secret-garden",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Leaf Green",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-leaf-green",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Autumn Birds Black",
+      "price": 319,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-autumn-birds-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Black",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Secret Garden",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-secret-garden",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Leaf Green",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-leaf-green",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Autumn Birds Black",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-autumn-birds-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Black",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Grey",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-grey",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Burnt Orange",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-burnt-orange",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Coat Rosvik Grey",
+      "price": 179,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/quilted-coat-rosvik-grey",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Coat Rosvik Burnt Orange",
+      "price": 179,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/quilted-coat-rosvik-burnt-orange",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Brown",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-brown",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Deep Blue",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-deep-blue",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Ljungby Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/jacket-ljungby-black",
+      "category": "jackets",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Packable Anorak Brekke Stripes Multi Color",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-stripes-multi-color-multi-color",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Packable Anorak Brekke Mint",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-mint-surf-spray",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Packable Anorak Brekke Black",
+      "price": 99,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/packable-anorak-brekke-black-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Secret Garden",
+      "price": 319,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-secret-garden",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Leaf Green",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-leaf-green",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Autumn Birds Black",
+      "price": 319,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-autumn-birds-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Haparanda Black",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-haparanda-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Secret Garden",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-secret-garden",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Leaf Green",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-leaf-green",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Autumn Birds Black",
+      "price": 299,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-autumn-birds-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Black",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Grey",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-grey",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Puffer Jacket Boden Burnt Orange",
+      "price": 249,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/puffer-jacket-boden-burnt-orange",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Coat Rosvik Grey",
+      "price": 179,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/quilted-coat-rosvik-grey",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Quilted Coat Rosvik Burnt Orange",
+      "price": 179,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/quilted-coat-rosvik-burnt-orange",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Brown",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-brown",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Padded Jacket Ljungby Corduroy Deep Blue",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/padded-jacket-ljungby-corduroy-deep-blue",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jacket Ljungby Black",
+      "price": 149,
+      "link": "https://www.dedicatedbrand.com//en/women/jackets/jacket-ljungby-black",
+      "category": "caps_and_beanies",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Socks Sigtuna Peanuts 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-peanuts-5-pack",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fruits 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-fruits-5-pack",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees 5-pack",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-trees-5-pack",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Base Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-base-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Peanuts AOP White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-peanuts-aop-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Lucy Light Blue",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-lucy-light-blue",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Snoopy Red",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-snoopy-red",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Woodstock Green",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-woodstock-green",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Double Scarf Multi Color",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-double-scarf-multi-color",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bike-pattern-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Burgundy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bike-pattern-burgundy-burgundy",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern Navy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bike-pattern-navy",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bike Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bike-pattern-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-fuck-racism-pattern-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-fuck-racism-pattern-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Fuck Racism Pattern Golden Yellow",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-fuck-racism-pattern-golden-yellow",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-trees-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Trees Leaf Green",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-trees-leaf-green",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Local Planet Navy",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-local-planet-navy",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna World Map Blue",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-world-map-blue",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Vegetables White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-vegetables-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Lemons Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-lemons-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Green Tube",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-green-tube",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-super-mario",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario Pattern Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-super-mario-pattern-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Peach",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-peach",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bowser",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bowser",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Hummingbirds White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-hummingbirds-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Hummingbirds Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-hummingbirds-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Dedicated Logo Black",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-dedicated-logo-black",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Dedicated Logo",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-dedicated-logo-yellow",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna World Champion",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-world-champion",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Bumblebees",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-bumblebees",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Double Stripes",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-double-stripes-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Double Stripes",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-double-stripes",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Super Mario Pattern White",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-super-mario-pattern-white",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Socks Sigtuna Toad",
+      "price": 9,
+      "link": "https://www.dedicatedbrand.com//en/women/socks/socks-sigtuna-toad",
+      "category": "socks",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Soft Bra Junsele White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/soft-bra-junsele-white",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Briefs Ramsele White",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/briefs-ramsele-white",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Soft Bra Junsele Leaf Green",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/soft-bra-junsele-leaf-green",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Briefs Ramsele Leaf Green",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/briefs-ramsele-leaf-green",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Soft Bra Junsele Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/soft-bra-junsele-black",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Briefs Ramsele Black",
+      "price": 19,
+      "link": "https://www.dedicatedbrand.com//en/women/underwear/briefs-ramsele-black",
+      "category": "underwear",
+      "type": "women",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "T-shirt Lillehammer Tie Dye Blue",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-tie-dye-blue-blue",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Bananas Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-bananas-yellow-snapdragon",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Bananas White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-bananas-white-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Shark Bite White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-shark-bite-white-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Pop Ice Cream Light Grey",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-pop-ice-cream-light-grey-light_-grey",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Peanuts AOP Multi Color",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-peanuts-aop-multi-color-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Color Dots Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-color-dots-navy-black_-iris",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Doing My Best",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-doing-my-best",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Tie Dye",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-tie-dye",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Whales",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-whales",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Trees",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-trees",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Clouds",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-clouds",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Dress Vetlanda Whales",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-dress-vetlanda-whales",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Dress Vetlanda Trees",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-dress-vetlanda-trees",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Lemons",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-lemons",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Map",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-baby-map",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Dress Vetlanda Color Dots Navy",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-dress-vetlanda-color-dots-navy-black_-iris",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Dress Vetlanda Pop Ice Cream Light Grey",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-dress-vetlanda-pop-ice-cream-light-grey-light_-grey",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Dress Vetlanda Dog Shape Grey Melange",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-dress-vetlanda-dog-shape-grey-melange",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Autumn Birds Off-White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-autumn-birds-off-white-off-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Gangsta Rap Black",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-gangsta-rap-black-black",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Stripes Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-stripes-navy-black_-iris",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Stripes Yellow",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-stripes-yellow-yellow",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Stripes Orange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-stripes-orange-orange",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Block Stripes Multi Color",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-block-stripes-multi-color-multi_-color",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Snoopy Puffer White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-snoopy-puffer-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Redbird White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-redbird-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Peanuts Friends Navy",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-peanuts-friends-navy",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Double Scarf Dark Green",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-double-scarf-dark-green",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Bluebird White",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-bluebird-white",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Trees Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-trees-navy",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Stripes Dark Green",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-stripes-dark-green",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Stripes Charcoal",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-stripes-charcoal",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Hamra Dog Shape Grey Melange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-hamra-dog-shape-grey-melange",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Ski Area",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-ski-area",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Dogs",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-baby-dogs",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Baby Beast",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-baby-beast",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Beast",
+      "price": 24,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-beast",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Jungle",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-jungle",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "T-shirt Lillehammer Blue Birds",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/t-shirts/t-shirt-lillehammer-blue-birds",
+      "category": "t-shirts",
+      "type": "kids",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Sweatshirt Katthult Snoopy Earth Grey Melange",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-snoopy-earth-grey-melange",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Mushrooms Off-White",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-mushrooms-off-white",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Tie Dye Blue",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-tie-dye-blue-blue",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Hummingbirds Off-White",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-hummingbirds-off-white-off-white",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Secret Garden",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-secret-garden",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Garden",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-garden",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Split Grey Melange",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-split-grey-melange",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Big Stripes",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-big-stripes",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Eat Fruit",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-baby-eat-fruit",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Bike Pattern",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-baby-bike-pattern",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Map",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-baby-map",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Ski Area",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-ski-area",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Sweatshirt Katthult Girl Power",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/sweatshirts/sweatshirt-katthult-girl-power",
+      "category": "sweatshirts",
+      "type": "kids",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Leggings Lummelunda Mushrooms Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-mushrooms-black",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jogger Tomelilla Mushrooms Off-White",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/jogger-tomelilla-mushrooms-off-white",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Girl Power",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-girl-power",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Ski Area",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-ski-area",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Map",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-baby-map",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Bike Pattern",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-baby-bike-pattern",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Big Stripes",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-big-stripes",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Split",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-split",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jogger Tomelilla Secret Garden",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/jogger-tomelilla-secret-garden",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jogger Tomelilla Tie Dye",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/jogger-tomelilla-tie-dye",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Hummingbirds Off-White",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-hummingbirds-off-white-off-white",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Joggers Tomelilla Tie Dye Blue",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/joggers-tomelilla-tie-dye-blue-blue",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Jogger Tomelilla Grey Melange",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/jogger-tomelilla-grey-melange",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Pop Ice Cream Light Grey",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-pop-ice-cream-light-grey-18504",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Color Dots Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-color-dots-navy-18501",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Trees Navy",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-trees-navy",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Dog Shapes Grey Melange",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-dog-shapes-grey-melange",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Pop Ice Cream Light Grey",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-pop-ice-cream-light-grey-light_-grey",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Shark bite White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-shark-bite-white-white",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Peanuts AOP Multi Color",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-peanuts-aop-multi-color-white",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Whales",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-whales",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Trees",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-trees",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Super Mario Pattern White",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-super-mario-pattern-white",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Super Mario Pattern Black",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-super-mario-pattern-black",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Clouds",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-clouds",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Lemons",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-lemons",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Leggings Lummelunda Fuck Racism Stripes",
+      "price": 29,
+      "link": "https://www.dedicatedbrand.com//en/kids/bottoms/leggings-lummelunda-fuck-racism-stripes",
+      "category": "bottoms",
+      "type": "kids",
+      "brand": "dedicated"
+    }
+  ],
+  [
+    {
+      "name": "Swim Shorts Arild Coconuts Yellow",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/swimwear/swim-shorts-arild-coconuts-yellow-yellow",
+      "category": "swimwear",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swim Shorts Arild Croc Hippo Pink",
+      "price": 39,
+      "link": "https://www.dedicatedbrand.com//en/kids/swimwear/swim-shorts-arild-croc-hippo-pink-pink",
+      "category": "swimwear",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swimsuit Lekeryd Big Stripe Orange",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/swimwear/swimsuit-lekeryd-big-stripe-orange-orange",
+      "category": "swimwear",
+      "type": "kids",
+      "brand": "dedicated"
+    },
+    {
+      "name": "Swimsuit Lekeryd Seventies Floral Green",
+      "price": 49,
+      "link": "https://www.dedicatedbrand.com//en/kids/swimwear/swimsuit-lekeryd-seventies-floral-green-green",
+      "category": "swimwear",
+      "type": "kids",
+      "brand": "dedicated"
+    }
+  ]
+]
