@@ -64,6 +64,12 @@ async function sandbox () {
     console.log(`👕 ${loomOnly.length} total of products found for Loom`);
     console.log(loomOnly);
 
+    // const brand = 'loom';
+    // const collection = db.collection('products');
+    // const products = await collection.find({brand}).toArray();
+    // console.log('all brand products');
+    // console.log(products);
+
     db.close();
   } catch (e) {
     console.error(e);

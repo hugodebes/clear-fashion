@@ -4,11 +4,11 @@ const fs = require('fs');
 
 const MONGODB_DB_NAME = 'clearfashion';
 const MONGODB_COLLECTION = 'products';
-const MONGODB_URI = process.env.MONGODB_URI;
+const MONGODB_URI = 'mongodb+srv://hugo_dbs:1111@clearfashion.gc193.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 let client = null;
 let database = null;
-
+console.log("geee")
 /**
  * Get db connection
  * @type {MongoClient}
@@ -56,7 +56,7 @@ module.exports.insert = async products => {
 };
 
 /**
- * Find products based on query : 1 for ascending, -1 for descending
+ * Find products based on query
  * @param  {Array}  query
  * @return {Array}
  */
@@ -74,43 +74,6 @@ module.exports.find = async query => {
 };
 
 /**
- * Sort products 
- * @param  {Array}  order
- * @return {Array}
- */
- module.exports.sort = async order => {
-  try {
-    const db = await getDB();
-    var sort_key = {price:order};
-    const collection = db.collection(MONGODB_COLLECTION);
-    const result = await collection.find().sort(sort_key).toArray();
-
-    return result;
-  } catch (error) {
-    console.error('🚨 collection.find...', error);
-    return null;
-  }
-};
-
-
-/**
- * drop products 
- * @param  {Array}  order
- * @return {Array}
- */
- module.exports.drop = async query => {
-  try {
-    const db = await getDB();
-    const collection = db.collection(MONGODB_COLLECTION);
-    const result = await collection.deleteMany(query);
-  } catch (error) {
-    console.error('🚨 collection.find...', error);
-    return null;
-  }
-};
-
-
-/**
  * Close the connection
  */
 module.exports.close = async () => {
@@ -120,3 +83,9 @@ module.exports.close = async () => {
     console.error('🚨 MongoClient.close...', error);
   }
 };
+
+// const brand = 'loom';
+    // const collection = db.collection('products');
+    // const products = await collection.find({brand}).toArray();
+    // console.log('all brand products');
+    // console.log(products);
