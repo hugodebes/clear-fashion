@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "vercel": "^24.0.0",
     "yarn": "^1.22.17"
   }
 }
