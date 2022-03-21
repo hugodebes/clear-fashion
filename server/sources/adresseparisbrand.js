@@ -27,12 +27,12 @@ const parse = data => {
         .find('.product_img_link')
         .attr('href');
       const prelink = 'https://adresse.paris/';
-      link = prelink + link;
+      //link = prelink + link;
 
       const picture = $(element)
         .find('img')
         .attr('data-original');
-      const id = uuidv5(link,uuidv5.URL);
+      //const id = uuidv5(link,uuidv5.URL);
 
       const materialInfo = $(element)
 

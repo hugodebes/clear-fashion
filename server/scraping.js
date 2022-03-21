@@ -4,6 +4,7 @@ const fs = require("fs");
 const montlimartbrand = require('./sources/montlimartbrand');
 const adresseparisbrand = require('./sources/adresseparisbrand.js');
 const crypto = require("crypto");
+const { profile } = require('console');
 
 
 const pages = {
@@ -66,25 +67,26 @@ const results = []
 
 async function sandbox (eshop) {
   try {   
-    for(var type in pages){
-      for(var category in pages[type]){   
-        link = pages[type][category];
+    for(var type in pages_paris){ 
+        link = pages_paris[type];
         console.log("🕵️‍♀️  browsing through"+ link);     
-        const products = await dedicatedbrand.scrape(link);
+        const products = await adresseparisbrand.scrape(link);
         const brands = {};
         var count = 0;
         products.forEach(product => {
           count=count+1;
-          const link_brand = {product: {id:''+count+'_'+category+'_'+type+'_dedicated'}};
+          //console.log(product.link);
+          const link_brand = {product: {id:''+count+'_'+type+'_adresseparis'}};
           brands[link_brand.product.id] = {
+            brand : "adresseparis",
             name: product.name,
             price: product.price,
             link : product.link,
-            category : category,
             type : type,
-            brand : "dedicated",
+            image_link :product.picture,
             _id: crypto.randomBytes(16).toString("hex")
           };
+          //console.log(product.image);
         //console.log(brands)
         })
         //console.log(category);
@@ -96,12 +98,11 @@ async function sandbox (eshop) {
         });
         results.push(values);
         //console.log("DONE");
-      }
     }   
     const database = JSON.stringify(results);
     //console.log("data");
     //console.log(data);
-    fs.appendFileSync('./sources/dedicated_db.json', database);
+    fs.appendFileSync('./sources/adresseparis_db_v2.json', database);
     //fs.appendFile("Users/Hugo/Documents/Travail/A4/Web Applications Architecture/Hugo Branch/clear-fashion/server/dedicated.json",data,(err)=>{
      // if(err){
      //   throw err;

@@ -63,9 +63,9 @@ async function drop_doc (query) {
 
 
 
-var adresseparis_db = JSON.parse(fs.readFileSync('sources/adresseparis_db.json', 'utf8'));
-var dedicated_db = JSON.parse(fs.readFileSync('sources/dedicated_db.json', 'utf8'));
-var montlimart_db = JSON.parse(fs.readFileSync('sources/montlimart_db.json', 'utf8'));
+var adresseparis_db = JSON.parse(fs.readFileSync('sources/adresseparis_db_v2.json', 'utf8'));
+var dedicated_db = JSON.parse(fs.readFileSync('sources/dedicated_db_v2.json', 'utf8'));
+var montlimart_db = JSON.parse(fs.readFileSync('sources/montlimart_db_v2.json', 'utf8'));
 
 
 
@@ -73,6 +73,6 @@ var montlimart_db = JSON.parse(fs.readFileSync('sources/montlimart_db.json', 'ut
 //add_doc(adresseparis_db);
 //add_doc(dedicated_db);
 //add_doc(montlimart_db);
-//find_brand("dedicated");
+find_brand("dedicated");
 //find_product_less_price(29);
-find_product_sort_price(-1);
+//find_product_sort_price(-1);

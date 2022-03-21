@@ -27,16 +27,16 @@ const parse = data => {
         .find('.product-name a')
         .attr('href');
       const prelink = 'https://www.montlimart.com/';
-      link = prelink + link;
+      //link = prelink + link;
 
       const picture = $(element)
         .find('img')
         .attr('src');
-      const id = uuidv5(link,uuidv5.URL);
+      //const id = uuidv5(link,uuidv5.URL);
 
       const materialInfo = $(element)
 
-      return {name, price,link,picture,id};
+      return {name, price,link,picture};
     })
     .get();
 };
