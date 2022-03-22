@@ -21,11 +21,11 @@ app.get('/', (request, response) => {
 
 app.listen(PORT);
 
-console.log("📡 Running on port ${PORT}");
+console.log(`📡 Running on port ${PORT}`);
 
 app.get("/products", async(request, response)=>{
   try{
-    let limit = 12;
+    //let limit = 12;
     let filter = request.query;
     let sortby = "";
     let products;
@@ -129,7 +129,7 @@ app.get("/products", async(request, response)=>{
         console.log("default");
         products = await collection.find(filter);
     }
-    products=products.slice(0,limit);
+    //products=products.slice(0,limit);
     console.log(products.length);
     response.send(products);
 
