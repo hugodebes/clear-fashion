@@ -13,13 +13,13 @@ const sectionProducts = document.querySelector('#products');
 const spanNbProducts = document.querySelector('#nbProducts');
 const selectBrand = document.querySelector('#brand-select');
 const selectPrice = document.querySelector('#price-select');
-const selectReleased = document.querySelector('#released-select')
+//const selectReleased = document.querySelector('#released-select')
 const selectSort = document.querySelector('#sort-select');
-const spanNewproducts = document.querySelector('#newProducts');
+//const spanNewproducts = document.querySelector('#newProducts');
 const spanp50 = document.querySelector('#p50');
 const spanp90 = document.querySelector('#p90');
 const spanp95 = document.querySelector('#p95');
-const spanReleased=document.querySelector('#lastReleased');
+//const spanReleased=document.querySelector('#lastReleased');
 
 
 //currentProducts=dictBrands[selectBrand];
@@ -36,7 +36,7 @@ const setCurrentProducts = ({result, meta}) => {
 };
 
 
-const reduceProducts = async(body,size=12,page=1) =>{
+const reduceProducts = async(body,size,page) =>{
     console.log("greg");
     console.log(body);
     try {
@@ -49,7 +49,16 @@ const reduceProducts = async(body,size=12,page=1) =>{
         console.log(error);
     }
 }
+function shuffle(sourceArray) {
+    for (var i = 0; i < sourceArray.length - 1; i++) {
+        var j = i + Math.floor(Math.random() * (sourceArray.length - i));
 
+        var temp = sourceArray[j];
+        sourceArray[j] = sourceArray[i];
+        sourceArray[i] = temp;
+    }
+    return sourceArray;
+}
 
 /**
  * Fetch products from api
@@ -68,7 +77,8 @@ const fetchProducts = async (page = 1, size = 12) => {
       return {currentProducts, currentPagination};
     }
     let meta= {"currentPage":page,"count":body.length,"pageCount":size*page,"pageSize":size}
-    let result = await reduceProducts(body,size,page);
+    var shuffle_body = shuffle(body);
+    let result = await reduceProducts(shuffle_body,size,page);
     let res = {result,meta} 
     console.log("res");
     console.log(res);
@@ -89,16 +99,15 @@ const renderProducts = products => {
   const div = document.createElement('div');
   const template = products
     .map(product => {
-      return `
-      <div class="product" id=${product._id}>
-        <span>${product.brand}</span>
-        <a href="${product.link}">${product.name}</a>
-        <span>${product.price}</span>
-        <button title="OpenInNewTab" onclick="window.open('${product.link}', '_blank'); return false;">${product.name}</button>
-        <button title="AddFavorite" onclick="SaveAsFavorite('${product.id}')">Save as favorite</button>
-        
-      </div>
-    `;
+    return `
+    <div class="card">
+        <img src="${product.image_link}" alt="" style="width:100%" >
+        <h1>${product.name}</h1>
+        <p class="price">${product.price}€</p>
+        <p>Brand : ${product.brand}</p>
+        <p><button onclick="window.open('${product.link}', '_blank'); return false;">Open link</button></p>
+        <p><button onclick="SaveAsFavorite('${product._id}')">Add to favorites</button></p>
+    </div>`
     })
     .join('');
 
@@ -182,7 +191,7 @@ selectPage.addEventListener('change',event => {
  * So that i can browse product for a specific brand
  */
  selectBrand.addEventListener('change',event => {
-  let brands = ["adresseparis","loom","aatise","1083","dedicated"]
+  let brands = ["adresseparis","montlimart","dedicated"]
   var dictBrands={}
   for(const name of brands){
     const list_product = []
@@ -208,7 +217,7 @@ selectPage.addEventListener('change',event => {
  * I want to filter by recent products
  * So that i can browse the new released products (less than 2 weeks)
  */
- selectReleased.addEventListener('change',event => {
+ /*selectReleased.addEventListener('change',event => {
   var date =selectReleased.value;
   var nb_days = 0;
   if (date == "2w"){
@@ -241,7 +250,7 @@ selectPage.addEventListener('change',event => {
     .then(setCurrentProducts)
     .then(() => render(temp, currentPagination));
 })
-
+*/
 /**
  * 🎯 Feature 4 - Filter by reasonable price
  * 
@@ -304,6 +313,7 @@ selectSort.addEventListener("change", event => {
   {
     temp=SortAsc(currentProducts);
   }
+  /*
   if(choice=='date-asc')
   {
     temp=SortDateDesc(currentProducts);
@@ -312,6 +322,7 @@ selectSort.addEventListener("change", event => {
   {
     temp=SortDateAsc(currentProducts);
   }
+  */
   console.log(temp);
   fetchProducts(currentPagination.currentPage,currentPagination.size)
     .then(setCurrentProducts)
@@ -338,6 +349,7 @@ selectSort.addEventListener("change", event => {
  * I want to indicate the total number of recent products
  * So that i can understand howw many new products are available
  */
+/*
  const renderNewProducts = products => {
   let count = 0;
   var today=new Date();
@@ -353,7 +365,7 @@ selectSort.addEventListener("change", event => {
   }
   spanNewproducts.innerHTML = count;
 };
-
+*/
 /**
  * 🎯 Feature 10 - p50, p90 and p95 price value indicator
  * 
@@ -387,13 +399,14 @@ const renderP95 = products =>{
  * I want to indicate the last released date
  * So that i can understand if we have new products
  */
+/*
 const renderLastReleased = products=>{
   console.log(products);
   var sorted=SortDateDesc(products);
   var count=sorted[0].released;
   spanReleased.innerHTML=count;
 }
-
+*/
 const render = (products, pagination) => {
   renderProducts(products);
   renderPagination(pagination);
@@ -401,8 +414,8 @@ const render = (products, pagination) => {
   renderP90(products);
   renderP50(products);
   renderP95(products);
-  renderLastReleased(products);
-  renderNewProducts(products);
+  //renderLastReleased(products);
+  //renderNewProducts(products);
 };
 
 /**
@@ -425,8 +438,8 @@ const render = (products, pagination) => {
  * So that i can retreive this product later
  */
  function SaveAsFavorite(product_uiid){
-  const index = Object.keys(currentProducts).find(key => currentProducts[key].uuid=== product_uiid)
-  favorites.push(currentProducts[index]);
+     const index = Object.keys(currentProducts).find(key => currentProducts[key]._id=== product_uiid)
+     favorites.push(currentProducts[index]);
 }
 
 /**
