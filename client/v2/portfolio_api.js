@@ -106,14 +106,14 @@ const renderProducts = products => {
         <p class="price">${product.price}€</p>
         <p>Brand : ${product.brand}</p>
         <p><button onclick="window.open('${product.link}', '_blank'); return false;">Open link</button></p>
-        <p><button onclick="SaveAsFavorite('${product._id}')">Add to favorites</button></p>
+        <p><button id ='button${product.name}' onclick="SaveAsFavorite('${product._id}');setColor('button${product.name}','#D6140E')">Add to favorites</button></p>
     </div>`
     })
     .join('');
 
   div.innerHTML = template;
   fragment.appendChild(div);
-  sectionProducts.innerHTML = '<h2>Products</h2>';
+  sectionProducts.innerHTML = '<div class = "feature-product"><h2>Products</h2><div>';
   sectionProducts.appendChild(fragment);
 };
 
@@ -438,8 +438,8 @@ const render = (products, pagination) => {
  * So that i can retreive this product later
  */
  function SaveAsFavorite(product_uiid){
-     const index = Object.keys(currentProducts).find(key => currentProducts[key]._id=== product_uiid)
-     favorites.push(currentProducts[index]);
+  const index = Object.keys(currentProducts).find(key => currentProducts[key]._id=== product_uiid)
+  favorites.push(currentProducts[index]);
 }
 
 /**

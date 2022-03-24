@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <script src="v1.index.js"></script>
+<script>
+  function setColor(btn) {
+    var property = document.getElementById(btn);
+    property.style.backgroundColor = "#00342D"
+  }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -38,8 +44,38 @@
     </nav>
 
     <h1 class="title_x">Clear fashion</h1>
+
+
+
+    <section id="indicators" class="gras">
+      <h2 class="pad">Indicators</h2>
+
+      <div class="inline">
+        <span>Number of products</span>
+        <span id="nbProducts">0</span>
+      </div>
+      <div class="inline">
+        <span> || p50 price value</span>
+        <span id="p50">0</span>
+      </div>
+      <div class="inline">
+        <span> || p90 price value</span>
+        <span id="p90">0</span>
+      </div>
+      <div class="inline">
+        <span> || p95 price value</span>
+        <span id="p95">0</span>
+      </div>
+    </section>
+
+    <section class="gras">
+      <h2></h2>
+    </section>
+
+
+
     <section class="gras" id="options">
-      <div class="pad" id="show">
+      <div class="inline" id="show">
         <label for="show-select">Show:</label>
         <select name="show" id="show-select">
           <option value="12">12</option>
@@ -47,12 +83,12 @@
           <option value="48">48</option>
         </select>
       </div>
-      <div id="page">
+      <div class="inline" id="page">
         <label for="page-select">Go to page:</label>
         <select name="page" id="page-select"> </select>
       </div>
-      <div id="filters">
-        <div id="price">
+      <div class="inline" id="filters">
+        <div class="inline" id="price">
           <label for="price-select">By price:</label>
           <select name="price" id="price-select"> 
             <option value="null">-</option>
@@ -62,7 +98,7 @@
             <option value="100">100</option>
           </select>
         </div>
-        <div id="brand">
+        <div class="inline" id="brand">
           <label for="brand-select">By brands:</label>
           <select name="brand" id="brand-select"> 
             <option value="null">-</option>
@@ -73,36 +109,21 @@
         </div>
         
       </div>
-      <div id="sort">
-        <label for="sort-select">Sort:</label>
-        <select name="sort" id="sort-select">
+      <div class="inline" id="sort">
+        <label class="inline" for="sort-select">Sort:</label>
+        <select class="select" name="sort" id="sort-select">
           <option value="null">-</option>
           <option value="price-asc">Cheaper</option>
           <option value="price-desc">Expensive</option>
         </select>
       </div>
-      <div id="fav">
-        <lebel for="SaveAsFavorite">Favorites:</lebel>
-        <button onclick=Showfavorite()> Show </button>
-      </div>
-    </section>
-    <section id="indicators" class="gras">
-      <h2>Indicators</h2>
-      <div>
-        <span>Number of products</span>
-        <span id="nbProducts">0</span>
-      </div>
-      <div>
-        <span>p50 price value</span>
-        <span id="p50">0</span>
-      </div>
-      <div>
-        <span>p90 price value</span>
-        <span id="p90">0</span>
-      </div>
-      <div>
-        <span>p95 price value</span>
-        <span id="p95">0</span>
+      <div class="inline" id="fav">
+        <lebel class="inline" for="SaveAsFavorite"></lebel>
+        <a href="#" onclick=Showfavorite() class="btn">
+          <span class="text">Text</span>
+          <span class="flip-front">Show favorites</span>
+          <span class="flip-back">Show favorites</span>
+        </a>
       </div>
     </section>
     <section id="products"></section>
