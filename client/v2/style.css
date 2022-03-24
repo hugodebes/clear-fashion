@@ -181,8 +181,8 @@ a {
   text-align: center;
   position: relative;
   position: absolute;
-  left: 55%;
-  transform: translate(-40%, -10%);
+  left: 120px;
+  transform: translate(-40%, 110%);
   -webkit-transition: all .3s ease-out;
   -o-transition: all .3s ease-out;
   transition: all .3s ease-out;
